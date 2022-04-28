@@ -1,16 +1,7 @@
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\obj\Debug\netcoreapp2.1\Semana7Test.AssemblyInfoInputs.cache
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\obj\Debug\netcoreapp2.1\Semana7Test.AssemblyInfo.cs
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\obj\Debug\netcoreapp2.1\Semana7Test.csproj.CoreCompileInputs.cache
-C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\testhost.exe
-C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\testhost.dll
-C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.TestPlatform.AdapterUtilities.dll
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.deps.json
-C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.runtimeconfig.json
-C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.runtimeconfig.dev.json
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.dll
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.pdb
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Semana7PU.dll
@@ -19,4 +10,9 @@ C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\obj\Debug\net
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\obj\Debug\netcoreapp2.1\Semana7Test.csproj.CopyComplete
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\obj\Debug\netcoreapp2.1\Semana7Test.dll
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\obj\Debug\netcoreapp2.1\Semana7Test.pdb
+C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.runtimeconfig.json
+C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.runtimeconfig.dev.json
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\obj\Debug\netcoreapp2.1\Semana7Test.genruntimeconfig.cache
