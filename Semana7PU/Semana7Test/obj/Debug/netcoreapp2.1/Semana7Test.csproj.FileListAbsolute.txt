@@ -13,6 +13,12 @@ C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\obj\Debug\net
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\nunit.engine.core.dll
+C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\testcentric.engine.metadata.dll
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.runtimeconfig.json
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.runtimeconfig.dev.json
 C:\Users\lsalas\Downloads\Semana7DanielSalas\Semana7PU\Semana7Test\obj\Debug\netcoreapp2.1\Semana7Test.genruntimeconfig.cache
