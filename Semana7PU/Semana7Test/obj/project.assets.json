@@ -1621,6 +1621,9 @@
       "Semana7PU/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.NET.Test.Sdk": "15.9.0"
+        },
         "compile": {
           "bin/placeholder/Semana7PU.dll": {}
         },
