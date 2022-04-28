@@ -6,7 +6,7 @@ namespace Semana7Test
     [TestClass]
     public class CalcuTest
     {
-        [DataRow(4,4,9)]
+        [DataRow(4,4,8)]
         [DataRow(4, 0, 4)]
         [DataRow(0, 0, 0)]
         [TestMethod]
